@@ -7,3 +7,8 @@ function somar(a, b) {
 function subtrair(a, b) {
   return a - b; 
 }
+
+// Função 4: Concatena dois textos 
+function juntarTexto(texto1, texto2) {
+  return texto1 + texto2; 
+}
